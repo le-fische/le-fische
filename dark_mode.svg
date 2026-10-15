@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,Menlo,monospace" width="1000px" height="340px" viewBox="0 0 1000 340" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1000px" height="340px" fill="#161b22" rx="15"/>
+
+<!-- ASCII Portrait -->
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30"></tspan>
+<tspan x="15" y="50">          mkhhkmkur    rvli|</tspan>
+<tspan x="15" y="70">     zh#M#M&amp;%W##WMB$$&amp;#WM##bbpqku</tspan>
+<tspan x="15" y="90">    pWbB$$$$@8@$$$$$$$$$$$@@@@&amp;%@%</tspan>
+<tspan x="15" y="110">  |#8@$$$$$$$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="15" y="130">  z@$$$$$$$$$$$$$&amp;B@$$$$$$$$$$$$$$</tspan>
+<tspan x="15" y="150">  uB$$$$$$$$$@u&amp;8jbM$$@$$$$$$$%$$$</tspan>
+<tspan x="15" y="170">   M$&amp;M,;irzuxlj$|,+$BlWm@%xj|h%$M</tspan>
+<tspan x="15" y="190">    mr  `-;+++~x`   'k+~~##h:-vj*</tspan>
+<tspan x="15" y="210">        `-,::::~l++!v*:;;~;;,`</tspan>
+<tspan x="15" y="230">       .:~;:;~,:+il|+~,,-,::-</tspan>
+<tspan x="15" y="250"> ,;xxpkM$$MpwzxMx%&amp;Wjvli|!~;u`</tspan>
+<tspan x="15" y="270"> jhh###p#%@$@pj*+~~:-'-,~+k$$W%%$#</tspan>
+<tspan x="15" y="290"> |h&amp;8&amp;BMbqp#$B@%bhzxrxjl*,8$$$$$$$</tspan>
+<tspan x="15" y="310">~rhW$$$B&amp;8%M$wmwzxrl*:` iilx$$$$$$</tspan>
+</text>
+
+<text x="385" y="30" fill="#c9d1d9">
+<tspan x="385" y="30">houze@ubc</tspan><tspan fill="#616e7f"> -————————————————————————————————————————————-—-</tspan>
+<tspan x="385" y="50" class="cc">. </tspan><tspan class="key">OS</tspan><tspan fill="#c9d1d9">:</tspan><tspan class="cc"> ........................... </tspan><tspan class="value">Linux, macOS, Windows 11</tspan>
+<tspan x="385" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan fill="#c9d1d9">:</tspan><tspan class="cc" id="age_data_dots"> ..................... </tspan><tspan class="value" id="age_data">21 years, 6 months, 0 days</tspan>
+<tspan x="385" y="90" class="cc">. </tspan><tspan class="key">Host</tspan><tspan fill="#c9d1d9">:</tspan><tspan class="cc"> ................... </tspan><tspan class="value">University of British Columbia</tspan>
+<tspan x="385" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan fill="#c9d1d9">:</tspan><tspan class="cc"> ............. </tspan><tspan class="value">Computer Engineering Undergraduate</tspan>
+<tspan x="385" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan fill="#c9d1d9">:</tspan><tspan class="cc"> .............. </tspan><tspan class="value">VS Code, Altium Designer, SolidWorks</tspan>
+<tspan x="385" y="150" class="cc">. </tspan>
+<tspan x="385" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan fill="#c9d1d9">.</tspan><tspan class="key">Programming</tspan><tspan fill="#c9d1d9">:</tspan><tspan class="cc"> ...... </tspan><tspan class="value">Python, C++, TypeScript, C</tspan>
+<tspan x="385" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan fill="#c9d1d9">.</tspan><tspan class="key">Computer</tspan><tspan fill="#c9d1d9">:</tspan><tspan class="cc"> ...... </tspan><tspan class="value">SystemVerilog, SQL, HTML, CSS</tspan>
+<tspan x="385" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan fill="#c9d1d9">.</tspan><tspan class="key">Real</tspan><tspan fill="#c9d1d9">:</tspan><tspan class="cc"> .......... </tspan><tspan class="value">English, Mandarin, Indonesian</tspan>
+<tspan x="385" y="230" class="cc">. </tspan>
+<tspan x="385" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan><tspan fill="#c9d1d9">.</tspan><tspan class="key">Software</tspan><tspan fill="#c9d1d9">:</tspan><tspan class="cc"> .. </tspan><tspan class="value">Chess Engines, 3D Graphics, Web Dev</tspan>
+<tspan x="385" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan><tspan fill="#c9d1d9">.</tspan><tspan class="key">Hardware</tspan><tspan fill="#c9d1d9">:</tspan><tspan class="cc"> .... </tspan><tspan class="value">PCB Design, Avionics, 3D Printing</tspan>
+</text>
+</svg>
