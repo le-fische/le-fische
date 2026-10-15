@@ -34,10 +34,11 @@ STEAM_FISH = [
     ("space",  "                                 "),
     ("space",  "                                 "),
     ("space",  "                                 "),
+    ("space",  "                                 "),
 ]
 
 def make_card_svg(theme='dark'):
-    height = 360
+    height = 380
     
     bg = '#161b22' if theme == 'dark' else '#f6f8fa'
     fg = '#c9d1d9' if theme == 'dark' else '#24292f'
@@ -49,6 +50,7 @@ def make_card_svg(theme='dark'):
     
     fields = [
         ("header", "houze@ubc"),
+        ("AKA", "Le"),
         ("OS", "Linux, macOS, Windows 11"),
         ("Uptime", "19 years, 7 months, 17 days", "age_data"),
         ("Host", "UBC, UBC AeroDesign"),
@@ -136,11 +138,10 @@ text, tspan {{white-space: pre;}}
     svg.append('</svg>')
     return "\n".join(svg)
 
-# Write SVGs
 with open("/Users/le/Documents/Projects/github profile/dark_mode.svg", "w", encoding="utf-8") as f:
     f.write(make_card_svg('dark'))
 
 with open("/Users/le/Documents/Projects/github profile/light_mode.svg", "w", encoding="utf-8") as f:
     f.write(make_card_svg('light'))
 
-print("Updated profile cards with refined Steam fish!")
+print("Updated profile cards with AKA: Le!")
