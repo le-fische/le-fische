@@ -50,7 +50,7 @@ def make_card_svg(theme='dark'):
     fields = [
         ("header", "houze@ubc"),
         ("OS", "Linux, macOS, Windows 11"),
-        ("Uptime", "21 years, 6 months, 0 days", "age_data"),
+        ("Uptime", "19 years, 7 months, 17 days", "age_data"),
         ("Host", "UBC, UBC AeroDesign"),
         ("Kernel", "Computer Engineering Undergraduate"),
         ("IDE", "VS Code, Altium Designer, SolidWorks"),
