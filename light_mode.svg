@@ -11,34 +11,33 @@ size-adjust: 109%;
 .key {fill: #953800;}
 .value {fill: #0a3069;}
 .cc {fill: #c2cfde;}
-.ascii-art {fill: #1a7f37; font-weight: 500;}
-.flame {fill: #cf222e; animation: pulse 1.2s ease-in-out infinite;}
-@keyframes pulse {
-  0%, 100% { opacity: 0.35; }
-  50% { opacity: 1.0; }
+.fish {fill: #1a7f37; font-weight: 500;}
+.bubble {fill: #0969da; animation: float 2.5s ease-in-out infinite;}
+@keyframes float {
+  0%, 100% { opacity: 0.35; transform: translateY(0px); }
+  50% { opacity: 1.0; transform: translateY(-3px); }
 }
 text, tspan {white-space: pre;}
 </style>
 <rect width="1000px" height="360px" fill="#f6f8fa" rx="15"/>
 
-<!-- ASCII Graphic -->
-<text x="25" y="32" class="ascii-art">
-<tspan x="25" y="32">              |                   </tspan>
-<tspan x="25" y="52">             / \                  </tspan>
-<tspan x="25" y="72">            /   \                 </tspan>
-<tspan x="25" y="92">           /  |  \                </tspan>
-<tspan x="25" y="112">          /   |   \               </tspan>
-<tspan x="25" y="132">         /    |    \              </tspan>
-<tspan x="25" y="152">        /   .-'-.   \             </tspan>
-<tspan x="25" y="172">  .----'   /  |  \   '----.       </tspan>
-<tspan x="25" y="192"> /   _____/___|___\_____   \      </tspan>
-<tspan x="25" y="212">|   |     |   |   |     |   |     </tspan>
-<tspan x="25" y="232"> '---|    |___|___|    |---'      </tspan>
-<tspan x="25" y="252">     '---.   / \   .---'          </tspan>
-<tspan x="25" y="272">          \ /   \ /               </tspan>
-<tspan x="25" y="292">           V     V                </tspan>
-<tspan x="25" y="312" class="flame">          /  : :  \               </tspan>
-<tspan x="25" y="332" class="flame">         '========='              </tspan>
+<!-- Steam Fish Graphic -->
+<text x="25" y="32">
+<tspan x="25" y="32">                                 </tspan>
+<tspan x="25" y="52">                                 </tspan>
+<tspan x="25" y="72" class="bubble">             .                   </tspan>
+<tspan x="25" y="92" class="bubble">               o                 </tspan>
+<tspan x="25" y="112" class="fish">              /\                 </tspan>
+<tspan x="25" y="132" class="fish">           _./  \_    _          </tspan>
+<tspan x="25" y="152" class="fish">       _.-'       '--' \_     /| </tspan>
+<tspan x="25" y="172" class="fish">    .-'  (o)             \___/ | </tspan>
+<tspan x="25" y="192" class="fish">  &lt;                           &lt;  </tspan>
+<tspan x="25" y="212" class="fish">    '-._     /\      /\   ___\ | </tspan>
+<tspan x="25" y="232" class="fish">        '---'  \____/  '-'    \| </tspan>
+<tspan x="25" y="252">                                 </tspan>
+<tspan x="25" y="272">                                 </tspan>
+<tspan x="25" y="292">                                 </tspan>
+<tspan x="25" y="312">                                 </tspan>
 </text>
 
 <text x="385" y="32" fill="#24292f">
