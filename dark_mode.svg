@@ -45,7 +45,7 @@ text, tspan {white-space: pre;}
 <tspan x="385" y="32">houze@ubc</tspan><tspan fill="#616e7f"> -————————————————————————————————————————————-—-</tspan>
 <tspan x="385" y="52" class="cc">. </tspan><tspan class="key">AKA</tspan><tspan fill="#c9d1d9">:</tspan><tspan class="cc"> ................................................ </tspan><tspan class="value">Le</tspan>
 <tspan x="385" y="72" class="cc">. </tspan><tspan class="key">OS</tspan><tspan fill="#c9d1d9">:</tspan><tspan class="cc"> ........................... </tspan><tspan class="value">Linux, macOS, Windows 11</tspan>
-<tspan x="385" y="92" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan fill="#c9d1d9">:</tspan><tspan class="cc" id="age_data_dots"> .................... </tspan><tspan class="value" id="age_data">19 years, 7 months, 22 days</tspan>
+<tspan x="385" y="92" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan fill="#c9d1d9">:</tspan><tspan class="cc" id="age_data_dots"> .................... </tspan><tspan class="value" id="age_data">19 years, 7 months, 23 days</tspan>
 <tspan x="385" y="112" class="cc">. </tspan><tspan class="key">Host</tspan><tspan fill="#c9d1d9">:</tspan><tspan class="cc"> .............................. </tspan><tspan class="value">UBC, UBC AeroDesign</tspan>
 <tspan x="385" y="132" class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan fill="#c9d1d9">:</tspan><tspan class="cc"> ............. </tspan><tspan class="value">Computer Engineering Undergraduate</tspan>
 <tspan x="385" y="152" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan fill="#c9d1d9">:</tspan><tspan class="cc"> .............. </tspan><tspan class="value">VS Code, Altium Designer, SolidWorks</tspan>
